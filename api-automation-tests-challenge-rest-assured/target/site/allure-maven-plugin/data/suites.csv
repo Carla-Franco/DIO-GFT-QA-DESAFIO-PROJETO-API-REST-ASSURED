@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 06 20:35:48 BRT 2023","Fri Jan 06 20:35:53 BRT 2023","5409","","Entities.BookingTest","","Entities.BookingTest","getAllBookingsByUserFirstNameBookingExistsReturnOk","getAllBookingsByUserFirstNameBookingExistsReturnOk()",""
+"passed","Fri Jan 06 20:35:39 BRT 2023","Fri Jan 06 20:35:44 BRT 2023","5464","","Entities.BookingTest","","Entities.BookingTest","getAllBookingsByIdReturnOk","getAllBookingsByIdReturnOk()",""
+"passed","Fri Jan 06 20:35:44 BRT 2023","Fri Jan 06 20:35:48 BRT 2023","3626","","Entities.BookingTest","","Entities.BookingTest","createBookingWithValidDataReturnOk","createBookingWithValidDataReturnOk()",""

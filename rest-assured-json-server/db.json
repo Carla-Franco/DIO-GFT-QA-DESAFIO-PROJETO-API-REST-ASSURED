@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "email": "roncarcla18@gmail.com",
+            "password": "123456",
+            "id": 1
+        }
+    ],
+    "bookings": [
+        {
+            "bookingid": 1,
+            "firstname": "Carla",
+            "lastname": "Franco",
+            "totalprice": 111,
+            "depositpaid": true,
+            "bookingdates": {
+                "checkin": "2013-02-23",
+                "checkout": "2014-10-23"
+            },
+            "additionalneeds": "Breakfast"
+        }  
+    ]  
+}
